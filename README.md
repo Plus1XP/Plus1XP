@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">< Hello, World!👋 /></h1>
 
-<!--
-**aleuts/aleuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Please Fork, Clone, Share and Contribute!
 
-Here are some ideas to get you started:
+```javascript
+const Elliott = {
+  language: [C#, XAML],
+  framework: [.NET, WPF],
+  architecture: [MVVM],
+  tools: [Visual Studio, Arduino, Unity, GitHub, GitLab]
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Aleuts's github stats](https://github-readme-stats.vercel.app/api?username=aleuts&count_private=true&include_all_commits&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleuts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aleuts&repo=motoical)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aleuts&repo=GrandPrixAlmanac)](https://github.com/anuraghazra/github-readme-stats)
