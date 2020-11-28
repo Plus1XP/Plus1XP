@@ -1,13 +1,17 @@
-<h1 align="center">< Hello, World! 👋 /></h1>
+<h1 align="center">< Hello World! 👋 /></h1>
 
 ### Please Clone, Fork, Share and Contribute!
 
-```javascript
-const Elliott = {
-  languages: [C#, XAML],
-  frameworks: [.NET, WPF],
-  architectures: [MVVM],
-  tools: [Visual Studio, Unity, Arduino]
+```cs
+public class Developer : Profile
+{
+    public Developer Elliott()
+    {
+        Languages = "C#", "XAML";
+        Frameworks = ".NET", "WPF";
+        Architectures = "MVVM";
+        Tools = "Visual Studio", "Unity";
+    }
 }
 ```
 
