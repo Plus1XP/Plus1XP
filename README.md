@@ -15,7 +15,7 @@ public class Developer : Profile
 }
 ```
 
-![Aleuts's github stats](https://github-readme-stats.vercel.app/api?username=aleuts&count_private=true&include_all_commits=true&show_icons=true)
+![Aleuts's github stats](https://github-readme-stats.vercel.app/api?username=aleuts&count_private=true&include_all_commits=true&show_icons=true&theme=react)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleuts&layout=compact)](https://github.com/aleuts?tab=repositories)
 
