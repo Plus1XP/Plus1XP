@@ -15,9 +15,9 @@ public class Developer : Profile
 }
 ```
 
-![Aleuts's github stats](https://github-readme-stats.vercel.app/api?username=plus1xp&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
+![Aleuts's github stats](https://github-readme-stats.vercel.app/api?username=plus1xp&custom_title=Elliott's%20GitHub%20Stats&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=ff766a&icon_color=96c2e7&text_color=c9d1d9&bg_color=161b22)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plus1xp&layout=compact&theme=tokyonight)](https://github.com/plus1xp?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plus1xp&layout=compact&hide_border=true&title_color=ff766a&icon_color=96c2e7&text_color=c9d1d9&bg_color=161b22)](https://github.com/plus1xp?tab=repositories)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=plus1xp&repo=motoical&theme=tokyonight)](https://github.com/plus1xp/motoical)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=plus1xp&repo=GrandPrixAlmanac&theme=tokyonight)](https://github.com/plus1xp/grandprixalmanac)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=plus1xp&repo=motoical&hide_border=true&title_color=ff766a&icon_color=96c2e7&text_color=c9d1d9&bg_color=161b22)](https://github.com/plus1xp/motoical)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=plus1xp&repo=GrandPrixAlmanac&hide_border=true&title_color=ff766a&icon_color=96c2e7&text_color=c9d1d9&bg_color=161b22)](https://github.com/plus1xp/grandprixalmanac)
