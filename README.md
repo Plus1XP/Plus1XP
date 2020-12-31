@@ -10,6 +10,7 @@ public class Developer : Profile
         Languages = "C#", "XAML";
         Frameworks = ".NET", "WPF", "Xamarin";
         Architectures = "MVVM";
+        DevOps = "Docker";
         Tools = "Visual Studio", "Unity";
     }
 }
