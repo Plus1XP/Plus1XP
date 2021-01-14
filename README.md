@@ -8,7 +8,7 @@ public class Developer : Profile
     public Developer Elliott()
     {
         Languages = "C#", "XAML";
-        Frameworks = ".NET", "WPF", "Entity", "Xamarin";
+        Frameworks = ".NET", "WPF", "Entity", "Blazor", "Xamarin";
         Architectures = "MVVM";
         Databases = "MSSQL";
         DevOps = "Docker";
