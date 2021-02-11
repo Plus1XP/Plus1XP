@@ -1,9 +1,8 @@
 <h1 align="center">< Hello World! 👋 /></h1>
 
-### Please Clone, Fork, Share and Contribute!
+<h2 align="center"> Please Clone, Fork, Share and Contribute!</h3>
 
-
-<Text align ="center"> 💻 .NET Developer </Text>
+<p align ="center">💻 .NET Developer</p>
 
 
 ![Aleuts's github stats](https://github-readme-stats.vercel.app/api?username=plus1xp&custom_title=Elliott's%20GitHub%20Stats&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=9bd6ff&icon_color=d2a8ff&text_color=c9d1d9&bg_color=161b22)
